@@ -15,7 +15,7 @@ header {
 
 nav {
     display: flex;
-    justify-content: right;
+    justify-content: left;
     gap: 1rem;
     padding: 1rem 0;
     background-color: #333;
